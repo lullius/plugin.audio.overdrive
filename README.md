@@ -14,7 +14,7 @@ Example URL:
 or simply
 
     deichman
-The latter is equal to the former.
+The latter is equivalent to the former.
 Username is usually your library card number.
 Leave Password blank if  not required by your library.
 
