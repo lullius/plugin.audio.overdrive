@@ -1,5 +1,6 @@
 # Overdrive for Kodi
 This addon lets you listen to audiobooks from [Overdrive](https://www.overdrive.com/) (aka [Libby](https://libbyapp.com/)) in Kodi. You can add all your libraries and this addon will list your borrowed books from all of them. 
+
  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=HCETPXTC7Y4GA)
 
 ## Instructions
