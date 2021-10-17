@@ -22,10 +22,12 @@ Your audiobooks should now be listed when you reopen the addon.
 
 
 ## Dependencies
-Kodi "Matrix" (19)  
-"script.module.routing" version="0.2.3+matrix.1"  
-"script.module.xmltodict" version="0.12.0+matrix.2"  
-"script.module.requests" version="2.25.1+matrix.1"  
+| Name                   | Version         | Link                                                           |
+|------------------------|-----------------|----------------------------------------------------------------|
+|Kodi                    | "Matrix" (19)   | https://kodi.tv/                                               |
+|script.module.routing   | 0.2.3+matrix.1  | https://mirrors.kodi.tv/addons/matrix/script.module.routing/   |
+|script.module.xmltodict | 0.12.0+matrix.2 | https://mirrors.kodi.tv/addons/matrix/script.module.xmltodict/ |
+|script.module.requests  | 2.25.1+matrix.1 | https://mirrors.kodi.tv/addons/matrix/script.module.requests/  |
 
 
 ## TODOs (that I probably won't do any time soon)
