@@ -4,35 +4,42 @@ This addon lets you listen to audiobooks from [Overdrive](https://www.overdrive.
  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=HCETPXTC7Y4GA)
 
 ## Instructions
-Grab the zip file from the releases page. 
-Install with Kodi in Addons -> "Install from zip file".
-Open the addon and go to "Add/Remove Libraries" -> "Add Library".
-Fill in your details.
-Example URL:
+Grab the zip file from the releases page.  
+Install with Kodi in Addons -> "Install from zip file".  
+Open the addon and go to "Add/Remove Libraries" -> "Add Library".  
+Fill in your details.  
+Example URL:  
 
     https://deichman.overdrive.com/
-or simply
+or simply  
 
     deichman
-The latter is equivalent to the former.
-Username is usually your library card number.
-Leave Password blank if  not required by your library.
+The latter is equivalent to the former.  
+Username is usually your library card number.  
+Leave Password blank if  not required by your library.  
 
 Your audiobooks should now be listed when you reopen the addon.
 
 
+## Dependencies
+Kodi "Matrix" (19)  
+"script.module.routing" version="0.2.3+matrix.1"  
+"script.module.xmltodict" version="0.12.0+matrix.2"  
+"script.module.requests" version="2.25.1+matrix.1"  
+
+
 ## TODOs (that I probably won't do any time soon)
-Write tests.
-Add support for resuming.
+Write tests.  
+Add support for resuming.  
 Test more libraries. (Only tested with the 3 available to me, Stavanger, Deichman and Viken)
 
 
 ## Special thanks to
-Overdrive for their service.
-The Norwegian libraries that are a part of Overdrive.
-https://github.com/ping/odmpy,
-https://github.com/chbrown/overdrive and
-https://github.com/jvolkening/gloc.
+Overdrive for their service.  
+The Norwegian libraries that are a part of Overdrive.  
+https://github.com/ping/odmpy,  
+https://github.com/chbrown/overdrive and  
+https://github.com/jvolkening/gloc.  
 
 
 ## Legal
@@ -51,7 +58,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 ---
 #### Donation
-If this software was helpful to you, you may donate any amount here.
+If this software was helpful to you, you may donate any amount here.  
 Thank you!
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=HCETPXTC7Y4GA)
