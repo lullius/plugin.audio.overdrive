@@ -23,7 +23,7 @@ Your audiobooks should now be listed when you reopen the addon.
 
 ## TODOs (that I probably won't do any time soon)
 Write tests.
-Add possibility to resume.
+Add support for resuming.
 Test more libraries. (Only tested with the 3 available to me, Stavanger, Deichman and Viken)
 
 
