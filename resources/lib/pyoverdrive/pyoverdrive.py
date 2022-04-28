@@ -99,6 +99,7 @@ class Overdrive:
             payload["password"] = self.password
 
         self.http_session.post(self.create_url(self.login_url), data=payload)
+        self.cj.save()
 
     def get_account(self):
         resp = self.http_session.get(self.create_url(self.account_url)).content
